@@ -30,7 +30,7 @@ This concept proposes an SSD design that implements **triple write-read operatio
 An SSD with triple write-read architecture and a built-in comparator offers a revolutionary approach to data protection. It ensures corrupted data recovery without performance loss, making it highly suitable for enterprise environments and potentially for consumer products requiring maximum reliability.
 
 ## License
-Copyright (c) 2025 Michael
+Copyright (c) 2025 Michael Kontos
 
 This work is protected. No reproduction, modification, distribution, or commercial use is allowed without explicit permission from the author.
 No manufacturer, company, or individual is permitted to implement, produce, or commercialize this concept without prior written authorization.
